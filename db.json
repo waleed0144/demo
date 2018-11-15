@@ -1,14 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+       "userInfo": [
+        {
+            "dobHijri": "1408/07/01",
+            "arabicGrandFatherName": " ",
+            "arabicName": "MUSHTAQ AHMED BAROOD ",
+            "englishGrandFatherName": " ",
+            "idExpiryDateGregorian": "2019/04/29",
+            "userid": "2362836252",
+            "idVersionNo": "4",
+            "arabicFirstName": "MUSHTAQ ",
+            "englishFamilyName": "بارود ",
+            "cardIssueDateHijri": "1435/06/03",
+            "englishName": "مشتاق احمد بارود ",
+            "nationality": "India ",
+            "arabicFamilyName": "BAROOD ",
+            "nationalityCode": "321",
+            "arabicFatherName": "AHMED ",
+            "cardIssueDateGregorian": "2014/04/03",
+            "englishFirstName": "مشتاق ",
+            "dob": "1988/02/18",
+            "idExpiryDateHijri": "1440/08/24",
+            "gender": "Male",
+            "englishFatherName": "احمد ",
+            "arabicNationality": "الهند ",
+            "issueLocationAr": "جوازات الرياض ",
+            "issueLocationEn": "Riyadh Passports "
+        }
+    ]
 }
